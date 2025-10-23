@@ -1,6 +1,3 @@
-Rename-Computer diskjockey
-add-windowsfeature ad-domain-services -includemanagementtools
-
 New-ADGroup 'EWS Admins' -GroupScope Global
 New-ADGroup 'SQL Admins' -Groupscope Global
 
