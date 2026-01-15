@@ -6,3 +6,4 @@ Write-Host "";Write-Host "Adding EWS Admins to Local Administrators"
 
 Get-LocalGroupMember administrators
 
+
